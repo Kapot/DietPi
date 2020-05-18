@@ -1,5 +1,5 @@
 v6.30
-(10/05/30 Hotfix)
+(10/05/20 Hotfix)
 
 Changes / Improvements / Optimisations:
 - DietPi-Software | qBittorrent: Changed default download file permissions so that Sonarr/Radarr/Lidarr/.. are able to manipulate the downloads after import. Many thanks to @compdealer for doing this suggestion: https://github.com/MichaIng/DietPi/issues/3524
